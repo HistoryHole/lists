@@ -31,13 +31,13 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 ## Contents
 
 <!-- toc -->
-- [Alleged Imperialism](https://github.com/CentralIntellx/overview/blob/main/UnitedStates.md#alleged-imperialism)
-- [Middle East](https://github.com/CentralIntellx/overview/blob/main/UnitedStates.md#middle-east)
-- [Western Hemisphere](https://github.com/CentralIntellx/overview/blob/main/UnitedStates.md#western-hemisphere)
-- [Africa](https://github.com/CentralIntellx/overview/blob/main/UnitedStates.md#africa)
-- [Europe](https://github.com/CentralIntellx/overview/blob/main/UnitedStates.md#europe)
-- [Asia](https://github.com/CentralIntellx/overview/blob/main/UnitedStates.md#asia)
-- [USA/Domestic matters](https://github.com/CentralIntellx/overview/blob/main/UnitedStates.md#asia)
+- [Alleged Imperialism](https://github.com/CentralIntellx/overview/blob/main/US.md#alleged-imperialism)
+- [Middle East](https://github.com/CentralIntellx/overview/blob/main/US.md#middle-east)
+- [Western Hemisphere](https://github.com/CentralIntellx/overview/blob/main/US.md#western-hemisphere)
+- [Africa](https://github.com/CentralIntellx/overview/blob/main/US.md#africa)
+- [Europe](https://github.com/CentralIntellx/overview/blob/main/US.md#europe)
+- [Asia](https://github.com/CentralIntellx/overview/blob/main/US.md#asia)
+- [USA/Domestic matters](https://github.com/CentralIntellx/overview/blob/main/US.md#asia)
 
 
 <!-- tocstop -->
