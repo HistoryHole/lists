@@ -21,7 +21,7 @@ Notes:
 ## Contents
 
 <!-- toc -->
-- [FISA applications](https://github.com/HistoryHole/files/blob/main/NSIs.md#fisa-applications)
+- [FISA applications](https://github.com/HistoryHole/lists/blob/main/NSIs.md#fisa-applications)
   - [As a warrant](https://github.com/HistoryHole/lists/blob/main/NSIs.md#as-a-warrant)
   - [Conservatism with respect to FISA](https://github.com/HistoryHole/lists/blob/main/NSIs.md#conservatism-with-respect-to-fisa)
   - [Preparation & Approval of FISA Applications](https://github.com/HistoryHole/lists/blob/main/NSIs.md#preparation--approval-of-fisa-applications) 
