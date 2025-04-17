@@ -1,5 +1,7 @@
-# List of scholarly publications and treatises on International Humanitarian Law (IHL), otherwise known as Law of Armed Conflict (LOAC).
+# List of scholarly publications and treatises on International Humanitarian Law (IHL), otherwise known as Law of Armed Conflict (LOAC)
 These will aid those interested in LOAC as it relates to some of the lists and essays in the repository. From lay person, beginner and advanced readers will find the list of materials here most useful. 
+
+"What is legal is not necessarily moral and what is moral is not always legal; but, particularly with regard to the law of war, the two are inextricably intertwined." - William Hays Parks
 
 # Contents
 
@@ -141,6 +143,11 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Conflict in Gregoria and Tanaka: The Law of Targeting](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3063&context=ils)
 - [Manifestly Unlawful: Why Russian Military Commanders Must Disobey a Nuclear Launch Order Against Ukraine](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3062&context=ils)
 - [Administrative investigations in an era of increased government scrutiny: An analysis of Army Regulation 15-6 and its perceived lack of independence](https://web.archive.org/web/20221011195318/https://tjaglcspublic.army.mil/documents/27431/7766454/2017-WINTER-Administrative+Investigations+in+an+Era+of+Increased+Government+Scrutiny.pdf/f3ad2420-f4cd-4a00-8188-9a86bfbb9613)
+- [Targeting, Distinction, and the Long War: Guarding Against Conflation of Cause and Responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889620)
+- [Targeting and the Concept of Intent](https://scholarship.law.cornell.edu/facpub/774/)
+- [Law-of-War Precautions: A Cautionary Note](https://academic.oup.com/book/32410/chapter-abstract/268714019?redirectedFrom=fulltext&login=false)
+- [The Genesis and Significance of the Law of War “Rendulic Rule”](https://link.springer.com/chapter/10.1007/978-94-6265-611-6_7)
+- [The Rule of Law in Armed Conflict](https://minnjil.org/wp-content/uploads/2025/03/10.-Hitoshi-Nasu_v34n1_237-279.pdf)
   
 
 
@@ -191,3 +198,4 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Nuclear Weapons Law: Where Are We Now?](https://www.cambridge.org/core/books/nuclear-weapons-law/nuclear-weapons-law/B206E71FD04DCF9D1A42A8F229B06A52)
 - [Annotated Supplement to the Commander’s Handbook on the Law of Naval Operations](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3084&context=ils)
 - [Rules and Commentaries on Jus Ad Bellum](https://westpointpress.com/jus-ad-bellum)
+- [The Impact of Emerging Technologies on the Law of Armed Conflict](https://academic.oup.com/book/32410)
