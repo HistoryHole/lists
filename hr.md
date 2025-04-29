@@ -11,12 +11,12 @@ A number of myths persist to this day, on a wide-range of Federal, State, and lo
 
 <!-- toc -->
 
-- [US Military](https://github.com/HistoryHole/lists/blob/main/hr.md#us-military)
-  - [BW](https://github.com/HistoryHole/lists/blob/main/hr.md#bw)
-  - [CW](https://github.com/HistoryHole/lists/blob/main/hr.md#cw)
-  - [Radication/nuclear](https://github.com/HistoryHole/lists/blob/main/hr.md#radiation)
-- [CIA](https://github.com/HistoryHole/lists/blob/main/hr.md#cia)
-- [Civilian](https://github.com/HistoryHole/lists/blob/main/hr.md#civilian)
+- [US Military](https://github.com/HistoryHoles/lists/blob/main/hr.md#us-military)
+  - [BW](https://github.com/HistoryHoles/lists/blob/main/hr.md#bw)
+  - [CW](https://github.com/HistoryHoles/lists/blob/main/hr.md#cw)
+  - [Radication/nuclear](https://github.com/HistoryHoles/lists/blob/main/hr.md#radiation)
+- [CIA](https://github.com/HistoryHoles/lists/blob/main/hr.md#cia)
+- [Civilian](https://github.com/HistoryHoles/lists/blob/main/hr.md#civilian)
    
 <!-- tocstop -->
 ---
