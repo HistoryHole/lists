@@ -177,6 +177,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Proportionality and Civilian Use of a Military Objective](https://opiniojuris.org/2021/06/24/proportionality-and-civilian-use-of-a-military-objective/)
 - [The Conduct of Hostilities and International Humanitarian Law: Challenges of 21st Century Warfare](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1709&context=ils)
 - [Legal and Policy Constraints on the Conduct of Aerial Precision Warfare](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1564&context=vjtl)
+- [Judging Battlefield Conduct](https://lieber.westpoint.edu/judging-battlefield-conduct/)
     
 
 ## ICC
@@ -229,3 +230,4 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Rules and Commentaries on Jus Ad Bellum](https://westpointpress.com/jus-ad-bellum)
 - [The Impact of Emerging Technologies on the Law of Armed Conflict](https://academic.oup.com/book/32410)
 - [Targeting and the Law of War Administrative Investigations & Criminal Law Supplement](https://www.court-martial-ucmj.com/files/2017/06/Targeting-and-the-Law-of-War-Admin-Investigation-and-Crim-Law-Supplement-30MAY17-Final-Approved.pdf)
+- [The Law on Nuclear Weapons: An International Commentary](https://www.e-elgar.com/shop/gbp/the-law-on-nuclear-weapons-9781035357673.html)
