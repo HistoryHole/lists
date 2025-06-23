@@ -88,7 +88,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [State-Sponsored Assassination in International and Domestic Law](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/6276/21_17YaleJIntlL609_1992_.pdf)
 - [Was the Soleimani Killing an Assassination?](https://www.lawfareblog.com/was-soleimani-killing-assassination)
 - [The tyranny of context: Israeli targeting practices in legal perspective](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1905&context=jil)
-- [The Goldstone report: Politicization of the Law of Armed Conflict and those left behind](https://tjaglcspublic.army.mil/documents/27431/1415913/View+the+PDF/6ea296ee-ce2a-425b-a360-314a67395031)
+- [The Goldstone report: Politicization of the Law of Armed Conflict and those left behind](https://web.archive.org/web/20120505220505/http://www.loc.gov/rr/frd/Military_Law/Military_Law_Review/pdf-files/209-fall-2011.pdf#page=79)
 - [A Critique of the Goldstone Report and Its Treatment of International Humanitarian Law](https://www.cambridge.org/core/journals/proceedings-of-the-asil-annual-meeting/article/abs/critique-of-the-goldstone-report-and-its-treatment-of-international-humanitarian-law/A6006B7860BEF9EC3857E4B52F173EB8)
 - [The Application of IHL in the Goldstone Report: A Critical Commentary](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1596214)
 - [Investigating Violations of International Law in Armed Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1683980)
@@ -194,6 +194,13 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [In Backing Future Autonomous Weapons Ban, the ICRC Appears Intent on Repeating Past Mistakes](https://sites.duke.edu/lawfire/2021/05/18/in-backing-future-autonomous-weapons-ban-the-icrc-appears-intent-on-repeating-past-mistakes/)
 - [Why Binding Limitations on Autonomous Weapons Will Remain Elusive](https://lieber.westpoint.edu/binding-limitations-autonomous-weapons-elusive/)
 - [Killer robots and military justice innovation: preparing accountability mechanisms for the future of autonomous weapons](https://www.maklu-online.eu/fr/tijdschrift/ridp/2022/military-justice-contemporary-challenges-history-a/killer-robots-and-military-justice-innovation-prep/)
+- [Article 23(g) Imperative Military Necessity Imposes No Higher Standard than Ordinary Military Necessity](https://lieber.westpoint.edu/article-23g-imperative-military-necessity-imposes-no-higher-standard-ordinary-military-necessity/)
+- [Proportionality under International Humanitarian Law: The “Reasonable Military Commander” Standard and Reverberating Effects](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/78/2018/06/07015455/11.-HendersonReece_Final-Review_Formatted.pdf)
+- [2023 DoD Manual Revision – What’s In a Presumption?](https://lieber.westpoint.edu/whats-in-a-presumption/)
+- [Targeting, Command Judgment, and a Proposed Quantum of Information Component: A Fourth Amendment Lesson in Contextual Reasonableness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1762894)
+- [The Flawed Human Rights Watch Report on Gaza](https://www.lawfaremedia.org/article/flawed-human-rights-watch-report-gaza)
+- [The UNHRC Commission of Inquiry on Syria Misapplies the Law of Armed Conflict](https://www.lawfaremedia.org/article/unhrc-commission-inquiry-syria-misapplies-law-armed-conflict)
+- [Assessing the Legality of Israel’s Action Against Iran Under International Law](https://lieber.westpoint.edu/assessing-legality-israels-action-iran-international-law/)
   
     
 
@@ -224,7 +231,7 @@ Violates International Law](https://harvardnsj.org/wp-content/uploads/2018/01/5_
 - [Protection of civilians—military reference guide](https://publications.armywarcollege.edu/pubs/3520.pdf)
 - [Cyber Law Toolkit](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
 - [The Law of Targeting](https://global.oup.com/academic/product/the-law-of-targeting-9780199696611?cc=us&lang=en&)
-- [The Newport Manual on the Law of Naval Warfare](https://digital-commons.usnwc.edu/ils/vol101/iss1/1/)
+- [The Newport Manual on the Law of Naval Warfare, 2nd ed. 2025](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=3106&context=ils)
 - [Newport Rules of Engagement Handbook](https://digital-commons.usnwc.edu/ils/vol98/iss1/2/)
 - [Non-international armed conflict in the twenty-first century](https://archive.org/details/noninternational88watk)
 - [Targeting enemy merchant shipping](https://archive.org/details/targetingenemyme65grun)
